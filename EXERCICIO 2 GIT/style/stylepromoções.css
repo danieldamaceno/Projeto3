@@ -1,0 +1,27 @@
+*{
+margin:0;
+padding:0; 
+}
+.menu li{
+	display:inline;
+	font-size:25px;
+	color:#FFFFFF;
+	margin-left:40px;
+}
+.menu {
+	z-index:100;
+	position:absolute;
+	margin-top:65px;
+	margin-left:700px;
+	
+	
+	
+}
+
+#imagem2{
+	position:absolute;
+	width:1280px;
+	margin-left:0px;
+	margin-top: 0px;
+	z-index:1;
+}
